@@ -1,0 +1,6 @@
+framework module Pods_FlixUPTests {
+  umbrella header "Pods-FlixUPTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
